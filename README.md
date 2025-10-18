@@ -1,4 +1,4 @@
-# Digital Civil Disobedience
+# CamusNoLogin
 
 A web app for viewing TikTok and Instagram videos without needing an account. Built as a protest against mandatory logins.
 
